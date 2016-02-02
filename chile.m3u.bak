@@ -61,9 +61,6 @@ http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 #EXTINF:0, tvg-id="GiroVisual" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/girovisual.jpg" group-title="TV REGIONAL CHILE",GiroVisual (V REGION)
 http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestream1/playlist.m3u8
 
-#EXTINF:0, tvg-id="Antofagasta TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/antofagasta_tv.jpg" group-title="TV REGIONAL CHILE",Antofagasta TV (ANTOFAGASTA)
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
-
 
 
 
