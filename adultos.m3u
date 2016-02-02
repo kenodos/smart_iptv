@@ -1,0 +1,20 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="JASMIN.TV"  group-title="New Group",JASMIN.TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SEXSTATION"  group-title="New Group",SEXSTATION
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BRAZZERS"  group-title="New Group",BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PASSION XXX"  group-title="New Group",PASSION XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="O-LA-LA"  group-title="New Group",O-LA-LA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HOTS SHOTS"  group-title="New Group",HOTS SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+
