@@ -1,9 +1,10 @@
 ﻿#EXTM3U
 
-#EXTINF:0
+#EXTINF:0,
 tvg-id="New EPG"
-tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="JASMIN.TV"
-group-title="Adultos"
+tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" 
+tvg-name="JASMIN.TV"
+group-title="Adultos",
 JASMIN.TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
