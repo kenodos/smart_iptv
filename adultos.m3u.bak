@@ -1,25 +1,31 @@
 ﻿#EXTM3U
 
-#EXTINF:0,
-tvg-id="New EPG"
-tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" 
-tvg-name="JASMIN.TV"
-group-title="Adultos",
-JASMIN.TV
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="JASMIN.TV"  group-title="Adultos",JASMIN.TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="SEXSTATION"  group-title="Adultos",SEXSTATION
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="SEXSTATION"  group-title="Adultos",BABESTATION XTREME
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="BRAZZERS"  group-title="Adultos",BRAZZERS
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="BRAZZERS"  group-title="Adultos",BRAZZERS
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="PASSION XXX"  group-title="Adultos",PASSION XXX
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="PASSION XXX"  group-title="Adultos",PASSION XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="O-LA-LA"  group-title="Adultos",O-LA-LA
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="O-LA-LA"  group-title="Adultos",O-LA-LA
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="HOTS SHOTS"  group-title="Adultos",HOTS SHOTS
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="HOTS SHOTS"  group-title="Adultos",HOTS SHOTS
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
 
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="ASIAN1"  group-title="Adultos",ASIAN1
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="ASIAN2"  group-title="Adultos",ASIAN2
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="ASIAN3"  group-title="Adultos",ASIAN3
+http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="BELLA CLUB"  group-title="Adultos",BELLA CLUB
+http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8

@@ -1,69 +1,74 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="Lared.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/La%20Red%20HD.png" group-title="TV CHILE",LA RED HD
+#EXTINF:0 tvg-id="Lared.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/La%20Red%20HD.png" group-title="TV CHILE",LA RED HD
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 
-#EXTINF:0, tvg-id="UCVValparaiso.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/UCVHD.png" group-title="TV CHILE",UCV HD
+#EXTINF:0 tvg-id="UCVValparaiso.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/UCVHD.png" group-title="TV CHILE",UCV HD
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
-#EXTINF:0, tvg-id="TVN.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/TVN%20HD.png" group-title="TV CHILE",TVN HD
+#EXTINF:0 tvg-id="TVN.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/TVN%20HD.png" group-title="TV CHILE",TVN HD
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
-#EXTINF:0, tvg-id="Mega.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/mega.png" group-title="TV CHILE",Mega HD
+#EXTINF:0 tvg-id="Mega.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/mega.png" group-title="TV CHILE",Mega HD
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 
-#EXTINF:0, tvg-id="Chilevision.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/CHV%20HD.png" group-title="TV CHILE",CHV HD
+#EXTINF:0 tvg-id="Chilevision.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/CHV%20HD.png" group-title="TV CHILE",CHV HD
 http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 
-#EXTINF:0, tvg-id="Canal13.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Canal%2013%20HD.png" group-title="TV CHILE",Canal 13 HD
+#EXTINF:0 tvg-id="Canal13.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Canal%2013%20HD.png" group-title="TV CHILE",Canal 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
-#EXTINF:0, tvg-id="13C.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/13C.png" group-title="TV CHILE",13C
+#EXTINF:0 tvg-id="Tele 13 Radio" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tele13_radio.png" group-title="TV CHILE",Tele 13 Radio
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
+
+#EXTINF:0 tvg-id="13C.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/13C.png" group-title="TV CHILE",13C
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
-#EXTINF:0, tvg-id="TV Chile" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tv%20chile.png" group-title="TV CHILE",TV Chile
+#EXTINF:0 tvg-id="TV Chile" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tv%20chile.png" group-title="TV CHILE",TV Chile
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 
 
 
 
 
-#EXTINF:0, tvg-id="BioBio TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/biobio_tv.jpg" group-title="TV REGIONAL CHILE",BioBio TV HD (CONCEPCION)
+#EXTINF:0 tvg-id="BioBio TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/biobio_tv.jpg" group-title="TV REGIONAL CHILE",BioBio TV HD (CONCEPCION)
 http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
 
-#EXTINF:0, tvg-id="TVU HD" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/TVU.png" group-title="TV REGIONAL CHILE",TVU HD (CONCEPCION)
+#EXTINF:0 tvg-id="TVU HD" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/TVU.png" group-title="TV REGIONAL CHILE",TVU HD (CONCEPCION)
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
 
-#EXTINF:0, tvg-id="ITV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/ITV-Patagonia.jpg" group-title="TV REGIONAL CHILE",ITV (PUNTA ARENAS)
+#EXTINF:0 tvg-id="ITV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/ITV-Patagonia.jpg" group-title="TV REGIONAL CHILE",ITV (PUNTA ARENAS)
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 
-#EXTINF:0, tvg-id="El Pinguino" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/elpinguino.jpg" group-title="TV REGIONAL CHILE",El Pinguino (PUNTA ARENAS)
+#EXTINF:0 tvg-id="El Pinguino" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/elpinguino.jpg" group-title="TV REGIONAL CHILE",El Pinguino (PUNTA ARENAS)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 
-#EXTINF:0, tvg-id="Holvoet TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/holvoet.png" group-title="TV REGIONAL CHILE",Holvoet TV HD (COPIAPO)
+#EXTINF:0 tvg-id="Holvoet TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/holvoet.png" group-title="TV REGIONAL CHILE",Holvoet TV HD (COPIAPO)
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
 
-#EXTINF:0, tvg-id="Contivision" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/contivision.jpg" group-title="TV REGIONAL CHILE",Contivision (MAULE)
+#EXTINF:0 tvg-id="Contivision" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/contivision.jpg" group-title="TV REGIONAL CHILE",Contivision (MAULE)
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
 
-#EXTINF:0, tvg-id="CampusTV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/campustv.png" group-title="TV REGIONAL CHILE",Campus TV (TALCA)
+#EXTINF:0 tvg-id="CampusTV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/campustv.png" group-title="TV REGIONAL CHILE",Campus TV (TALCA)
 http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
 
-#EXTINF:0, tvg-id="Canal 2" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/canal2sanantonio.jpg" group-title="TV REGIONAL CHILE",Canal 2 (SAN ANTONIO)
+#EXTINF:0 tvg-id="Canal 2" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/canal2sanantonio.jpg" group-title="TV REGIONAL CHILE",Canal 2 (SAN ANTONIO)
 http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8
 
-#EXTINF:0, tvg-id="Aysen TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/aysen_tv.png" group-title="TV REGIONAL CHILE",Aysen TV (AYSEN)
+#EXTINF:0 tvg-id="Aysen TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/aysen_tv.png" group-title="TV REGIONAL CHILE",Aysen TV (AYSEN)
 http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
 
-#EXTINF:0, tvg-id="VTV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/vtv.png" group-title="TV REGIONAL CHILE",VTV (V REGION)
+#EXTINF:0 tvg-id="VTV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/vtv.png" group-title="TV REGIONAL CHILE",VTV (V REGION)
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 
-#EXTINF:0, tvg-id="GiroVisual" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/girovisual.jpg" group-title="TV REGIONAL CHILE",GiroVisual (V REGION)
+#EXTINF:0 tvg-id="GiroVisual" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/girovisual.jpg" group-title="TV REGIONAL CHILE",GiroVisual (V REGION)
 http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestream1/playlist.m3u8
 
-#EXTINF:0, tvg-id="Antofagasta TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/antofagasta_tv.jpg" group-title="TV REGIONAL CHILE",Antofagasta TV (ANTOFAGASTA)
+#EXTINF:0 tvg-id="Antofagasta TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/antofagasta_tv.jpg" group-title="TV REGIONAL CHILE",Antofagasta TV (ANTOFAGASTA)
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
 
+#EXTINF:0 tvg-id="MorroVision" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/morro.png" group-title="TV REGIONAL CHILE",MorroVision (ARICA)
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?
 
 
 
