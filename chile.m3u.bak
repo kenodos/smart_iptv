@@ -18,7 +18,7 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 #EXTINF:0 tvg-id="Canal13.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Canal%2013%20HD.png" group-title="TV CHILE",Canal 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tele13_radio.png" group-title="TV CHILE",Tele 13 Radio
+#EXTINF:0 tvg-id="Tele 13 Radio" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tele13_radio.png" group-title="TV CHILE",Tele 13 Radio
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0 tvg-id="13C.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/13C.png" group-title="TV CHILE",13C
@@ -67,6 +67,8 @@ http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestr
 #EXTINF:0 tvg-id="Antofagasta TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/antofagasta_tv.jpg" group-title="TV REGIONAL CHILE",Antofagasta TV (ANTOFAGASTA)
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
 
+#EXTINF:0 tvg-id="MorroVision" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/morro.png" group-title="TV REGIONAL CHILE",MorroVision (ARICA)
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?
 
 
 
