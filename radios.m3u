@@ -1,0 +1,83 @@
+﻿#EXTM3U
+
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Imagina
+http://cast3.serverhost.cl:8764
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Duna
+rtmp://radio.cl.digitalproserver.com:443/duna/dunalive/dunav2.stream
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Cooperativa
+http://www.cooperativa.cl/noticias/prontus/player_streaming/chile.m3u
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", El Conquistador
+http://stream5.eltelon.com/el-conquistador-santiago.aac
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Universo
+rtmp://radio.cl.digitalproserver.com:443/universo/universolive/universo937.stream
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", FM Tiempo
+http://tunein.digitalproserver.com/fmtiempobb.mp3
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Carolina
+rtmp://radio.cl.digitalproserver.com:443/carolinafm/carolinafmlive/carolinafm.stream
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Bio-Bio la radio
+rtmp://radiocl.digitalproserver.com:443/biobiosantiago/biobiosantiagolive/biobiosantiago.stream
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Uno
+http://7299.live.streamtheworld.com/RADIO_UNO_SC
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Disco
+http://77.68.54.175:8012
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", U. de Chile
+http://stream.radio.uchile.cl
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Horizonte
+http://radio.cl.mediastre.am/horizonte.aac
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Contacto
+http://184.107.188.34:8697
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Paula
+http://tunein.digitalproserver.com/paulafm.mp3
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Top
+http://radio.cl.mediastre.am/top.aac
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Romantica
+http://tunein.digitalproserver.com/romanticabb.mp3
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Efecto
+http://stream.radioefecto.com:8000/stream
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Digital FM
+http://mimix.mercurio.cl:8000/digitalfm
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Radio Sol
+http://69.64.49.28:8000/
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Radio Corazon
+http://7349.live.streamtheworld.com/CORAZON_SC
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Beethoven
+rtmp://radiocl.digitalproserver.com:443/beethovenfm/beethovenfmlive/beethovenfm.stream
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", FMBox
+http://stream.fmbox.cl:9994
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Amanda
+http://amanda.cmtelcom.com/amanda128
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Disney
+rtmp://radiocl.digitalproserver.com:443/disneycl/disneycllive/disneycl.stream
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Positiva
+http://mimix.mercurio.cl:8000/positivafm
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Rockaxis
+http://radio.cl.mediastre.am/rockaxis.aac?type=.flv
+
+#EXTINF:0, radio="true" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/radios_chile.png" group-title="RADIOS CHILE", Nuevo Mundo
+http://184.107.179.162:9364
