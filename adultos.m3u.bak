@@ -42,29 +42,14 @@ http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet
 #EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="Nefertisex2"  group-title="Adultos",Nefertisex2
 http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp/hot100-tablet.3gp-mr647k.m3u8
 
-#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="Nefertisex3"  group-title="Adultos",Nefertisex3
-http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
-
 #EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="Nefertisex4"  group-title="Adultos",Nefertisex4
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-
-#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="Nefertisex5"  group-title="Adultos",Nefertisex5
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="Nefertisex6"  group-title="Adultos",Nefertisex6
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="Nefertisex7"  group-title="Adultos",Nefertisex7
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
 
 #EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="Nefertisex8"  group-title="Adultos",Nefertisex8
 http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-
-#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="Nefertisex9"  group-title="Adultos",Nefertisex9
-http://62.210.82.241:8081/private/private/live.m3u8
-
-#EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="Nefertisex10"  group-title="Adultos",Nefertisex10
-http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
 
 #EXTINF:0 tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="LIVESEX LATINAS"  group-title="Adultos",LIVESEX LATINAS
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
