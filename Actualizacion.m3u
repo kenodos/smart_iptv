@@ -35,7 +35,7 @@
   		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
   		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
 	</noscript>
-                    <input type="hidden" name="origin_url" value="http://sin-tele.com/iptv/PELICULAS4.m3u" />
+                    <input type="hidden" name="origin_url" value="http://sin-tele.com/iptv/Actualizacion.m3u" />
                     <input type="submit" value="Delist" />
                 </form>
             </div>
@@ -48,7 +48,7 @@
                 <hr/>
                 <pre>
 Dirección Remota: 179.9.217.22
-URI: /iptv/PELICULAS4.m3u
+URI: /iptv/Actualizacion.m3u
 Agente: Mozilla/5.0 (Windows NT 6.1; rv:44.0) Gecko/20100101 Firefox/44.0
                 </pre>
             </div>
