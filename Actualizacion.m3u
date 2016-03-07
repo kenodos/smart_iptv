@@ -1,107 +1,133 @@
-<html>
-    <head>
-        <title>Validador Anti-Hacker</title>
-        <meta charset="UTF-8" />
-        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-        <link rel="stylesheet" type="text/css" href="/css/style.css" />
+#EXTM3U 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/axMvC1t.png" group-title="TV SIN FREEZE",[COLOR red][B]  VISITA •►  SIN-TELE.COM  ◄• Televisión sin freeze[/B][/COLOR]
+http://?
 
-        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="keywords" content="joomla, Joomla, joomla 1.5, wordpress 2.5, Drupal" />
-<meta name="description" content="Joomla!" />
-<meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
-<meta name="generator" content="WordPress 2.5" />
+#EXTINF:-1, America Tv
+https://www.youtube.com/embed/FtD4Wgh97MA=0&au­toplay=1
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,TN
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd1 swfUrl=http://tn.com.ar/sites/all/themes/leono/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs
+#EXTINF:-1, Tv Publica
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
+#EXTINF:-1,CANAL 13 HD  
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,Quiero Musica
+mms  
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,MAGAZINE  
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+#EXTINF:-1,EL TRECE HD  
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,Tv Futbol
+http://vaughnlive.tv/juan_tvfutbol
+#EXTINF:-1,TyC Sport
+http://vaughnlive.tv/afatv1
+#EXTINF:-1,Telefe
+http://vaughnlive.tv/beto_5
+#EXTINF:-1,Universal movies
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Nasa Tv
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Espn
+http://iphone-streaming.ustream.tv/uhls/21911085/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Univision
+http://vaughnlive.tv/univision_hd44
+#EXTINF:-1,Telemundo
+http://iphone-streaming.ustream.tv/uhls/20570057/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Mega Movies Hd
+http://vaughnlive.tv/megamovieshd
+#EXTINF:-1,Unimas
+http://vaughnlive.tv/unimas23
+#EXTINF:-1,Los Simpson
+http://vaughnlive.tv/simpson_mania
+#EXTINF:-1,History 
+http://vaughnlive.tv/mfv_05
+#EXTINF:-1,DISCOVERY  
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Peliculas
+http://vaughnlive.tv/animania
+#EXTINF:-1,History alternativo
+http://vaughnlive.tv/misterioso777
+#EXTINF:-1,Malcom
+http://vaughnlive.tv/megamalcolm
+#EXTINF:-1,Vecinos
+http://vaughnlive.tv/mega_vecinos
+#EXTINF:-1,Futurama
+http://vaughnlive.tv/megafuturama
+#EXTINF:-1,South Park HD
+http://vaughnlive.tv/mega_revolucionhd
+#EXTINF:-1,Naruto HD
+http://vaughnlive.tv/mega_naruto
+#EXTINF:-1,Kids
+http://vaughnlive.tv/mega_kids
+#EXTINF:-1,Cine Extrem HD
+http://vaughnlive.tv/mega_extremo
+#EXTINF:-1,El Chavo del 8
+http://vaughnlive.tv/mega_chavo
+#EXTINF:-1,Dragon Ball Z HD
+http://vaughnlive.tv/mega_animes
+#EXTINF:-1,Los Expedientes Secretos X
+http://vaughnlive.tv/expedientes_mania
+#EXTINF:-1,America Tv
+http://vaughnlive.tv/el_yamato
+#EXTINF:-1,Terror
+http://vaughnlive.tv/club_terror
+#EXTINF:-1,Cinescape
+http://vaughnlive.tv/cinescape
+#EXTINF:-1,Cinema Latino HD
+http://vaughnlive.tv/cinemalatinohd01
+#EXTINF:-1,El Chavo
+http://vaughnlive.tv/centralseven
+#EXTINF:-1,Boc Tv
+http://vaughnlive.tv/boc
 
-
-
-    </head>
-    <body>
-
-        <div class="container">
-            <div>
-                <h1>Estimado Visitante,</h1>
-                <p>Para mantener el sitio seguro, por favor rellene los caracteres a continuación.</p>
-                <p><strong></strong></p>
-            </div>
-            <div class="left">
-                <img src="/img/logo.png" alt="" />
-            </div>
-            <div class="right">
-                <form method="post" action="/verify.php">
-                    <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LfRteUSAAAAAFQ4IlQQdjP_E7ek9ElCzSo5TDxC"></script>
-
-	<noscript>
-  		<iframe src="http://www.google.com/recaptcha/api/noscript?k=6LfRteUSAAAAAFQ4IlQQdjP_E7ek9ElCzSo5TDxC" height="300" width="500" frameborder="0"></iframe><br/>
-  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
-	</noscript>
-                    <input type="hidden" name="origin_url" value="http://sin-tele.com/iptv/Actualizacion.m3u" />
-                    <input type="submit" value="Delist" />
-                </form>
-            </div>
-            <div class="clear"></div>
-            <div>
-                <h1>¿Porque esto es necesario?</h1>
-                <p>Su dirección IP actual ha sido bloqueada por razones de seguridad. Probablemente su IP ha sido utilizada anteriormente para infringir la seguridad de algún servidor de la red Bit-Ninja.</p>
-                <p>Necesitamos estar seguros de que quien esté detras del computador sea una persona y no el software de un Haccker. Por favor rellene el Captcha. Al rellenar correctamente el Captcha, su IP actual, será eliminada automáticamente de nuestra lista de IP's maliciosas.
-                <p>Muchas Gracias.</p>
-                <hr/>
-                <pre>
-Dirección Remota: 179.9.217.22
-URI: /iptv/Actualizacion.m3u
-Agente: Mozilla/5.0 (Windows NT 6.1; rv:44.0) Gecko/20100101 Firefox/44.0
-                </pre>
-            </div>
-        </div>
-    </body>
-
-    <!--
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<a href='index.php?option=com_dshop'>This contact form is about /components/com_dshop/ </a><br>
-<a href='index.php?option=com_jobprofile'>This contact form is about /components/com_jobprofile/ </a><br>
-<a href='index.php?option=com_fckeditor'>This contact form is about /components/com_fckeditor/ </a><br>
-<a href='index.php?option=com_acajoom'>This contact form is about /components/com_acajoom/ </a><br>
-<a href='index.php?option=com_content'>This contact form is about /components/com_content/ </a><br>
-<a href='index.php?option=com_phocagallery'>This contact form is about /components/com_phocagallery/ </a><br>
-<a href='index.php?option=com_mailto'>This contact form is about /components/com_mailto/ </a><br>
-<a href='index.php?option=com_qcontacts'>This contact form is about /components/com_qcontacts/ </a><br>
-<a href='index.php?option=com_jevents'>This contact form is about /components/com_jevents/ </a><br>
-<a href='index.php?option=com_contact'>This contact form is about /components/com_contact/ </a><br>
-<a href='index.php?option=com_search'>This contact form is about /components/com_search/ </a><br>
-<a href='index.php?option=com_virtuemart'>This contact form is about /components/com_virtuemart/ </a><br>
-<a href='index.php?option=com_google'>This contact form is about /components/com_google/ </a><br>
-<a href='index.php?option=com_oziogallery2'>This contact form is about /components/com_oziogallery2/ </a><br>
-<a href='index.php?option=fckeditor/editor/filemanager/connectors/uploadtest.html'>This contact form is about /components/fckeditor/editor/filemanager/connectors/uploadtest.html/ </a><br>
-<a href='index.php?option=FCKeditor - Uploaders Tests'>This contact form is about /components/FCKeditor - Uploaders Tests/ </a><br>
-<a href='index.php?option=phpmyadmin'>This contact form is about /components/phpmyadmin/ </a><br>
-<a href='index.php?option=phpmyadmin2'>This contact form is about /components/phpmyadmin2/ </a><br>
-
-<a href="demo/GHH%20-%20Haxplorer/1.php">GHDB Signature #833 (filetype:php HAXPLORER &quot;Server Files Browser&quot;)</a><br>
-<br>
-<a href="demo/GHH%20-%20PHP%20Ping/php-ping.php">GHDB Signature #733 (&quot;Enter ip&quot; inurl:&quot;php-ping.php&quot;)</a><br>
-<br>
-<a href="demo/GHH%20-%20PHP%20Shell/phpshell.php">GHDB Signature #365 (intitle:&quot;PHP Shell *&quot; &quot;Enable stderr&quot; filetype:php)</a><br>
-<br>
-<a href="demo/GHH%20-%20PHPBB%20Install/phpBB2/install/install.php">GHDB Signature #935 (inurl:&quot;install/install.php&quot;)</a><br>
-<br>
-<a href="demo/GHH%20-%20PHPFM/index.php">GHDB Signature #361 (&quot;Powered by PHPFM&quot; filetype:php -username)
-</a><br><br>
-<a href="demo/GHH%20-%20PhpSysInfo/index.php">GHDB Signature #161 (inurl:phpSysInfo/ &quot;created by phpsysinfo&quot;)</a><br><br>
-<a href="demo/GHH%20-%20SquirrelMail/src/login.php">GHDB Signature #1013 (&quot;SquirrelMail version 1.4.4&quot; inurl:src ext:php)</a> <br><br>
-<a href="/demo/GHH v1.1 - WebUtil 2.7">GHDB Signature #1013 (&quot;SquirrelMail version 1.4.4&quot; inurl:src ext:php)</a> <br><br>
-<a href="/demo/GHH v1.1 - .mdb/admin.mdb">GHDB Signature #162 (allinurl: admin mdb)</a> <br><br>
-<a href="/demo/GHH v1.1 - .sql/create.sql">GHDB Signature #1064 (filetype:sql ("passwd values" | "password values" | "pass values" ))</a> <br><br>
-<a href="/demo/GHH v1.1 - AIM BuddyList/BuddyList.blt">GHDB Signature #937 (filetype:blt "buddylist")</a> <br><br>
-<a href="/demo/GHH v1.1 - File Upload Manager/">GHDB Signature #734 ("File Upload Manager v1.3" "rename to")</a> <br><br>
-<a href="/demo/GHH v1.1 - passlist.txt/passlist.txt">GHDB Signature #58 (inurl:passlist.txt)</a> <br><br>
-<a href="/demo/GHH v1.1 - passwd.txt/passwd.txt">GHDB Signature #1122 (wwwboard WebAdmin inurl:passwd.txt</a> <br><br>
-<a href="/demo/GHH v1.1 - WebUtil 2.7/webutil.pl">GHDB Signature #769 (inurl:webutil.pl)</a> <br><br>
--->
+#EXTINF:-1 tvg-logo="http://i.imgur.com/axMvC1t.png" group-title="TV SIN FREEZE",[COLOR green][B]  Por consultas y mas canales visita •►  SIN-TELE.COM  ◄• [/B][/COLOR]
+http://?
 
 
-    <!--
-<a href="mailto:csapda@web-server.hu"></a>
-<a href="mailto:csapda@astrohost.com"></a>
--->
 
-</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
