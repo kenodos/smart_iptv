@@ -1,0 +1,371 @@
+﻿#EXTM3U
+
+
+#EXTINF:0 tvg-id="Lared.cl" tvg-name="Lared.cl" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/La%20Red%20HD.png",LA RED HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+
+#EXTINF:0 tvg-id="Lared.cl" tvg-name="Lared.cl" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/La%20Red%20HD.png",LA RED HD OP2
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8$OPT:http-user-agent=iPhone referer=http://d1e8b5coppv0r9.cloudfront.net
+
+#EXTINF:0 tvg-id="UCV" tvg-name="UCV" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/UCVHD.png",UCV HD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+
+#EXTINF:0 tvg-id="TVN" tvg-name="TVN" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/TVN%20HD.png",TVN HD
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+
+#EXTINF:0 tvg-id="Mega" tvg-name="Mega" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/mega.png",Mega HD
+http://edge-21-gtd.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+
+#EXTINF:0 tvg-id="Chilevision" tvg-name="Chilevision" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/CHV%20HD.png",CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+
+#EXTINF:0 tvg-id="Canal13" tvg-name="Canal13" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Canal%2013%20HD.png",Canal 13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
+#EXTINF:0 tvg-id="Canal13" tvg-name="Canal13" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Canal%2013%20HD.png",Canal 13 HD OP2
+http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
+
+#EXTINF:0 tvg-id="Tele 13 Radio" tvg-name="Tele 13 Radio" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tele13_radio.png",Tele 13 Radio
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
+
+#EXTINF:0 tvg-id="13C" tvg-name="13C" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/13C.png",13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+
+#EXTINF:0 tvg-id="TV Chile" tvg-name="TV Chile" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tv%20chile.png",TV Chile
+http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+
+#EXTINF:0 tvg-id="TELECANAL" tvg-name="TELECANAL" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Telecanalogo",TELECANAL
+http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8
+
+
+
+
+#EXTINF:0 tvg-name="BioBio TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/biobio_tv.jpg" group-title="TV REGIONAL CHILE",BioBio TV HD (CONCEPCION)
+http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
+
+#EXTINF:0 tvg-name="TVU HD" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/TVU.png" group-title="TV REGIONAL CHILE",TVU HD (CONCEPCION)
+http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
+
+#EXTINF:0 tvg-name="ITV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/ITV-Patagonia.jpg" group-title="TV REGIONAL CHILE",ITV (PUNTA ARENAS)
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+
+#EXTINF:0 tvg-name="El Pinguino" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/elpinguino.jpg" group-title="TV REGIONAL CHILE",El Pinguino (PUNTA ARENAS)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:0 tvg-name="Holvoet TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/holvoet.png" group-title="TV REGIONAL CHILE",Holvoet TV HD (COPIAPO)
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+
+#EXTINF:0 tvg-name="Contivision" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/contivision.jpg" group-title="TV REGIONAL CHILE",Contivision (MAULE)
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
+
+#EXTINF:0 tvg-name="CampusTV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/campustv.png" group-title="TV REGIONAL CHILE",Campus TV (TALCA)
+http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
+
+#EXTINF:0 tvg-name="Canal 2" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/canal2sanantonio.jpg" group-title="TV REGIONAL CHILE",Canal 2 (SAN ANTONIO)
+http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8
+
+#EXTINF:0 tvg-name="Aysen TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/aysen_tv.png" group-title="TV REGIONAL CHILE",Aysen TV (AYSEN)
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
+
+#EXTINF:0 tvg-name="VTV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/vtv.png" group-title="TV REGIONAL CHILE",VTV (V REGION)
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+
+#EXTINF:0 tvg-name="GiroVisual" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/girovisual.jpg" group-title="TV REGIONAL CHILE",GiroVisual (V REGION)
+http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestream1/playlist.m3u8
+
+#EXTINF:0 tvg-name="Antofagasta TV" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/antofagasta_tv.jpg" group-title="TV REGIONAL CHILE",Antofagasta TV (ANTOFAGASTA)
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-name="MorroVision" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/morro.png" group-title="TV REGIONAL CHILE",MorroVision (ARICA)
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif",Discovery Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery Science" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",Discovery Science
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif",Discovery Theater
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery World HD" tvg-name="Discovery World HD" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif",Discovery World
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif",Discovery Civilization
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif",Discovery Turbo
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif",Investigación Discovery
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery H&H" tvg-name="Discovery H&H" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif",Discovery H&H
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="History Channel" tvg-name="History Channel" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif",History Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="H2" tvg-name="H2" group-title="CULTURA",H2
+http://104.236.61.232:8081/live/sky69/2Hcsp/playlist.m3u8
+
+#EXTINF:0 tvg-id="NatGeo" tvg-name="NatGeo" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",National Geographic
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif",NatGeo Wild
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="TLC" tvg-name="TLC" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif",TLC
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif",Animal Planet
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="FOX LIFE" tvg-name="FOX LIFE" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif",FOX LIFE
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="EL GOURMET" tvg-name="EL GOURMET" group-title="CULTURA" tvg-logo="http://z.cdn.entutele.com/media/channels/big/el-gourmet.gif",EL GOURMET
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="E! ENTERTAIMENT" tvg-name="E! ENTERTAIMENT" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif",E! ENTERTAIMENT
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="FASHION TV" tvg-name="FASHION TV" group-title="CULTURA" tvg-logo="",FASHION TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="MAS CHIC" tvg-name="MAS CHIC" group-title="CULTURA" tvg-logo="",MAS CHIC
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="GARAGE TV" tvg-name="GARAGE TV" group-title="CULTURA" tvg-logo="",GARAGE TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="SUN CHANNEL" tvg-name="SUN CHANNEL" group-title="CULTURA" tvg-logo="",SUN CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+
+#EXTINF:0 tvg-id="NHK WORLD" tvg-name="NHK WORLD" group-title="CULTURA" tvg-logo="",NHK WORLD
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8
+
+#EXTINF:0 tvg-id="NASA TV" tvg-name="NASA TV" group-title="CULTURA" tvg-logo="",NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+
+#EXTINF:0 tvg-id="Space Station Live" tvg-name="Space Station Live" group-title="CULTURA" tvg-logo="",Space Station Live
+http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="A&E" tvg-name="A&E" group-title="CULTURA" tvg-logo="",A&E
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="TRU TV" tvg-name="TRU TV" group-title="CULTURA" tvg-logo="",TRU TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="LIFETIME" tvg-name="LIFETIME" group-title="CULTURA" tvg-logo="",LIFETIME
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="WOBI TV" tvg-name="WOBI TV" group-title="CULTURA" tvg-logo="",WOBI TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
+
+
+
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Isidora Goyenechea - Vitacura
+http://200.75.19.171/uoct/55/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Tobalaba - Apoquindo
+http://200.75.19.171/uoct/30/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Providencia - Suecia
+http://200.75.19.171/uoct/35/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Providencia - Salvador
+http://200.75.19.171/uoct/19/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Macul - Grecia
+http://200.75.19.171/uoct/33/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Las Condes - La Dehesa
+http://200.75.19.171/uoct/31/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Bellavista - Arzobispo
+http://200.75.19.171/uoct/66/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Apoquindo - Las Condes
+http://200.75.19.171/uoct/29/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vespucio - Camino del Inca
+http://200.75.19.171/uoct/54/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vespucio - Presidente Riesco
+http://200.75.19.171/uoct/53/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vespucio - Vitacura
+http://200.75.19.171/uoct/49/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Puente Perez Zujovic
+http://200.75.19.171/uoct/47/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Apoquindo - Manquehue
+http://200.75.19.171/uoct/43/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Andres Bello - Nueva Tajamar
+http://200.75.19.171/uoct/42/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Diagonal Oriente con Vespucio
+http://200.75.19.171/uoct/10/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Apoquindo - Camino el Alba
+http://200.75.19.171/uoct/13/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", El Cerro con Los Conquistadores
+http://200.75.19.171/uoct/2/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", General Velazquez - Arica 
+http://200.75.19.171/uoct/21/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Alameda - Concon
+http://200.75.19.171/uoct/28/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Pajaritos - 5 de abril
+http://200.75.19.171/uoct/51/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Alameda - Matucana
+http://200.75.19.171/uoct/38/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", General Bonilla con Teniente Cruz
+http://200.75.19.171/uoct/55/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", San Pablo con Neptuno
+http://200.75.19.171/uoct/3/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Viel - Matta
+http://200.75.19.171/uoct/34/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Manuel Rodriguez - Toesca
+http://200.75.19.171/uoct/32/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Lira - Diagonal Paraguay
+http://200.75.19.171/uoct/26/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Alameda - Brasil
+http://200.75.19.171/uoct/18/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Agustinas – San Martin
+http://200.75.19.171/uoct/27/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Alameda – Santa Rosa
+http://200.75.19.171/uoct/37/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Plaza Italia
+http://200.75.19.171/uoct/36/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Teatinos con Compañia
+http://200.75.19.171/uoct/11/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Alameda con Manuel Rodriguez
+http://200.75.19.171/uoct/12/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vicuña Mackenna con Santa Isabel
+http://200.75.19.171/uoct/7/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Alameda con Nataniel Cox
+http://200.75.19.171/uoct/17/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", San Antonio con Agustinas
+http://200.75.19.171/uoct/14/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Alameda - Cumming
+http://200.75.19.171/uoct/16/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Ruta 5 - Vespucio
+http://200.75.19.171/uoct/52/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vespucio - Pedro Fontova
+http://200.75.19.171/uoct/50/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vespucio - Recoleta
+http://200.75.19.171/uoct/48/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Departamental - Pedro Aguirre Cerda
+http://200.75.19.171/uoct/46/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Departamental - 5 sur
+http://200.75.19.171/uoct/45/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vespucio - Vicuna Mackenna
+http://200.75.19.171/uoct/41/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vespucio - Gran Avenida
+http://200.75.19.171/uoct/40/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vespucio - Santa Rosa
+http://200.75.19.171/uoct/39/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Vicuna Mackenna con Departamental
+http://200.75.19.171/uoct/8/playlist.m3u8
+
+#EXTINF:0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/uoct.png" group-title="UOCT", Isabel Riquelme con Bascunann Guerrero
+http://200.75.19.171/uoct/6/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="BABESTATION1" tvg-name="BABESTATION1" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",BABESTATION1
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+
+#EXTINF:0 tvg-id="BABESTATION2" tvg-name="BABESTATION2" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",BABESTATION2
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
+
+#EXTINF:0 tvg-id="BABESTATION3" tvg-name="BABESTATION3" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",BABESTATION3
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+#EXTINF:0 tvg-id="BABESTATION4" tvg-name="BABESTATION4" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",BABESTATION4
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:0 tvg-id="JASMIN.TV" tvg-name="JASMIN.TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",JASMIN.TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="Brazzers TV" tvg-name="Brazzers TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Brazzers TV
+http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/125.m3u8
+
+#EXTINF:0 tvg-id="Hustler" tvg-name="Hustler" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Hustler
+http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/123.m3u8
+
+#EXTINF:0 tvg-id="Porn Channel 1" tvg-name="Porn Channel 1" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Porn Channel 1
+http://premium.exabytetv.info/xtc/dlso8ws/655/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Porn Channel 2" tvg-name="Porn Channel 2" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Porn Channel 2
+http://premium.exabytetv.info/xtc/dlso8ws/656/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD1"  group-title="Adultos",VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD2"  group-title="Adultos",VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD3"  group-title="Adultos",VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD4"  group-title="Adultos",VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD5"  group-title="Adultos",VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD6"  group-title="Adultos",VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD7"  group-title="Adultos",VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD8"  group-title="Adultos",VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD9"  group-title="Adultos",VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD10"  group-title="Adultos",VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg" tvg-name="VOD11"  group-title="Adultos",VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
