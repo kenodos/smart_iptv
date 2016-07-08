@@ -1,0 +1,92 @@
+﻿#EXTM3U
+
+
+#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif",Discovery Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery Science" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",Discovery Science
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif",Discovery Theater
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery World HD" tvg-name="Discovery World HD" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif",Discovery World
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif",Discovery Civilization
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif",Discovery Turbo
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif",Investigación Discovery
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Discovery H&H" tvg-name="Discovery H&H" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif",Discovery H&H
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="History Channel" tvg-name="History Channel" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif",History Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="H2" tvg-name="H2" group-title="CULTURA",H2
+http://104.236.61.232:8081/live/sky69/2Hcsp/playlist.m3u8
+
+#EXTINF:0 tvg-id="NatGeo" tvg-name="NatGeo" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",National Geographic
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif",NatGeo Wild
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="TLC" tvg-name="TLC" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif",TLC
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif",Animal Planet
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="FOX LIFE" tvg-name="FOX LIFE" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif",FOX LIFE
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="EL GOURMET" tvg-name="EL GOURMET" group-title="CULTURA" tvg-logo="http://z.cdn.entutele.com/media/channels/big/el-gourmet.gif",EL GOURMET
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="E! ENTERTAIMENT" tvg-name="E! ENTERTAIMENT" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif",E! ENTERTAIMENT
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="FASHION TV" tvg-name="FASHION TV" group-title="CULTURA" tvg-logo="",FASHION TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="MAS CHIC" tvg-name="MAS CHIC" group-title="CULTURA" tvg-logo="",MAS CHIC
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="GARAGE TV" tvg-name="GARAGE TV" group-title="CULTURA" tvg-logo="",GARAGE TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="SUN CHANNEL" tvg-name="SUN CHANNEL" group-title="CULTURA" tvg-logo="",SUN CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+
+#EXTINF:0 tvg-id="NHK WORLD" tvg-name="NHK WORLD" group-title="CULTURA" tvg-logo="",NHK WORLD
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8
+
+#EXTINF:0 tvg-id="NASA TV" tvg-name="NASA TV" group-title="CULTURA" tvg-logo="",NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+
+#EXTINF:0 tvg-id="Space Station Live" tvg-name="Space Station Live" group-title="CULTURA" tvg-logo="",Space Station Live
+http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="A&E" tvg-name="A&E" group-title="CULTURA" tvg-logo="",A&E
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="TRU TV" tvg-name="TRU TV" group-title="CULTURA" tvg-logo="",TRU TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="LIFETIME" tvg-name="LIFETIME" group-title="CULTURA" tvg-logo="",LIFETIME
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+
+#EXTINF:0 tvg-id="WOBI TV" tvg-name="WOBI TV" group-title="CULTURA" tvg-logo="",WOBI TV
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
+
+
+
+
+
+

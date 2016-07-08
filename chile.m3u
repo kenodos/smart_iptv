@@ -1,34 +1,37 @@
 ﻿#EXTM3U
 
-#EXTINF:0 tvg-name="Lared.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/La%20Red%20HD.png" group-title="TV CHILE",LA RED HD
+#EXTINF:0 tvg-id="Lared.cl" tvg-name="Lared.cl" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/La%20Red%20HD.png",LA RED HD
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 
-#EXTINF:0 tvg-name="Lared.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/La%20Red%20HD.png" group-title="TV CHILE",LA RED HD OP2
-http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:0 tvg-id="Lared.cl" tvg-name="Lared.cl" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/La%20Red%20HD.png",LA RED HD OP2
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8$OPT:http-user-agent=iPhone referer=http://d1e8b5coppv0r9.cloudfront.net
 
-#EXTINF:0 tvg-name="UCVValparaiso.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/UCVHD.png" group-title="TV CHILE",UCV HD
+#EXTINF:0 tvg-id="UCV" tvg-name="UCV" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/UCVHD.png",UCV HD
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
-#EXTINF:0 tvg-name="TVN.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/TVN%20HD.png" group-title="TV CHILE",TVN HD
+#EXTINF:0 tvg-id="TVN" tvg-name="TVN" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/TVN%20HD.png",TVN HD
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
-#EXTINF:0 tvg-name="Mega.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/mega.png" group-title="TV CHILE",Mega HD
-http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:0 tvg-id="Mega" tvg-name="Mega" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/mega.png",Mega HD
+http://edge-21-gtd.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 
-#EXTINF:0 tvg-name="Chilevision.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/CHV%20HD.png" group-title="TV CHILE",CHV HD
+#EXTINF:0 tvg-id="Chilevision" tvg-name="Chilevision" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/CHV%20HD.png",CHV HD
 http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 
-#EXTINF:0 tvg-name="Canal13.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Canal%2013%20HD.png" group-title="TV CHILE",Canal 13 HD
+#EXTINF:0 tvg-id="Canal13" tvg-name="Canal13" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Canal%2013%20HD.png",Canal 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
-#EXTINF:0 tvg-name="Canal13.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Canal%2013%20HD.png" group-title="TV CHILE",Canal 13 HD OP2
+#EXTINF:0 tvg-id="Canal13" tvg-name="Canal13" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Canal%2013%20HD.png",Canal 13 HD OP2
 http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
 
-#EXTINF:0 tvg-name="Tele 13 Radio" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tele13_radio.png" group-title="TV CHILE",Tele 13 Radio
+#EXTINF:0 tvg-id="Tele 13 Radio" tvg-name="Tele 13 Radio" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tele13_radio.png",Tele 13 Radio
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
-#EXTINF:0 tvg-name="13C.cl" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/13C.png" group-title="TV CHILE",13C
+#EXTINF:0 tvg-id="13C" tvg-name="13C" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/13C.png",13C
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
-#EXTINF:0 tvg-name="TV Chile" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tv%20chile.png" group-title="TV CHILE",TV Chile
+#EXTINF:0 tvg-id="TV Chile" tvg-name="TV Chile" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tv%20chile.png",TV Chile
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+
+#EXTINF:0 tvg-id="TELECANAL" tvg-name="TELECANAL" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Telecanalogo",TELECANAL
+http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8

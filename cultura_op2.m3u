@@ -1,0 +1,62 @@
+﻿#EXTM3U
+
+
+#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif",Discovery Channel
+http://premium.exabytetv.info/total5/dlso8ws/491/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery Science" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",Discovery Science
+http://premium.exabytetv.info/total5/dlso8ws/493/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif",Discovery Theater
+http://premium.exabytetv.info/total5/dlso8ws/496/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Discovery World HD" tvg-name="Discovery World HD" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif",Discovery World
+http://premium.exabytetv.info/total5/dlso8ws/495/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif",Discovery Civilization
+http://premium.exabytetv.info/total5/dlso8ws/492/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif",Discovery Turbo
+http://premium.exabytetv.info/total5/dlso8ws/494/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif",Investigación Discovery
+http://premium.exabytetv.info/total5/dlso8ws/500/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="History Channel" tvg-name="History Channel" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif",History Channel
+http://premium.exabytetv.info/total5/dlso8ws/497/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="H2" tvg-name="H2" group-title="CULTURA",H2
+http://104.236.61.232:8081/live/sky69/2Hcsp/playlist.m3u8
+
+#EXTINF:0 tvg-id="NatGeo" tvg-name="NatGeo" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",National Geographic
+http://premium.exabytetv.info/total5/dlso8ws/501/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif",NatGeo Wild
+http://premium.exabytetv.info/total5/dlso8ws/502/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="TLC" tvg-name="TLC" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif",TLC
+http://premium.exabytetv.info/total5/dlso8ws/503/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif",Animal Planet
+http://premium.exabytetv.info/total5/dlso8ws/489/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="WOBI TV" tvg-name="WOBI TV" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif",WOBI TV
+http://premium.exabytetv.info/total5/dlso8ws/506/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Aprende TV" tvg-name="Aprende TV" group-title="CULTURA",Aprende TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+
+#EXTINF:0 tvg-id="Once TV" tvg-name="Once TV" group-title="CULTURA",Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="Once TV" tvg-name="Once TV" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/once-tv.gif",Once TV
+http://premium.exabytetv.info/total5/dlso8ws/504/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="Ingenio TV" tvg-name="Ingenio TV" group-title="CULTURA",Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+
+#EXTINF:0 tvg-id="Proyecto 40" tvg-name="Proyecto 40" group-title="CULTURA" tvg-logo="http://y.cdn.entutele.com/media/channels/big/proyecto-40.gif",Proyecto 40
+http://premium.exabytetv.info/total5/dlso8ws/505/exabytetv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="CULTURA",Space Station Live
+http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8
