@@ -1,9 +1,0 @@
-﻿#EXTM3U
-
-
-#EXTINF:0 content-type=playlist, CHILE
-https://raw.githubusercontent.com/fseemann-iptv/smart_iptv/master/chile.m3u
-#EXTINF:0 content-type=playlist, UOCT
-https://raw.githubusercontent.com/fseemann-iptv/smart_iptv/master/uoct.m3u
-#EXTINF:0 content-type=playlist, ADULTOS
-https://raw.githubusercontent.com/fseemann-iptv/smart_iptv/master/adultos.m3u
