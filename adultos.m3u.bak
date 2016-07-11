@@ -27,6 +27,38 @@ http://premium.exabytetv.info/xtc/dlso8ws/655/exabytetv.m3u8
 #EXTINF:0 tvg-id="Porn Channel 2" tvg-name="Porn Channel 2" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Porn Channel 2
 http://premium.exabytetv.info/xtc/dlso8ws/656/exabytetv.m3u8
 
+#EXTINF:0 tvg-id="ButGO" tvg-name="ButGO" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",ButGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Playboy Asia" tvg-name="Playboy Asia" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Playboy Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Playy 19+" tvg-name="Playy 19+" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Playy 19+
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Sakura Porn TV" tvg-name="Sakura Porn TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Sakura Porn TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Candy TV" tvg-name="Candy TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Candy TV
+http://cdn-01.bonus-tv.ru/TVB7/candy/playlist.m3u8
+
+#EXTINF:0 tvg-id="LIVETing TV" tvg-name="LIVETing TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",LIVETing TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+#EXTINF:0 tvg-id="Visit-X TV" tvg-name="Visit-X TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="STORM BABES TV" tvg-name="STORM BABES TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",STORM BABES TV CH1
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/playlist.m3u8
+
+#EXTINF:0 tvg-id="STORM BABES TV" tvg-name="STORM BABES TV" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/xxx.jpg",STORM BABES TV CH2
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8
+
+
+
+
+
+
 
 
 

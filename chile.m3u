@@ -33,5 +33,5 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:0 tvg-id="TV Chile" tvg-name="TV Chile" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/tv%20chile.png",TV Chile
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 
-#EXTINF:0 tvg-id="TELECANAL" tvg-name="TELECANAL" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Telecanalogo",TELECANAL
+#EXTINF:0 tvg-id="TELECANAL" tvg-name="TELECANAL" group-title="TV CHILE" tvg-logo="https://raw.githubusercontent.com/fseemann-iptv/logos/master/Telecanalogo.jpg",TELECANAL
 http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8
